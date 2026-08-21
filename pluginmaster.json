@@ -1,0 +1,32 @@
+[
+    {
+        "Author": "UMADcorp",
+        "Name": "UMADAnoMech",
+        "Punchline": "Another another FFXIV mechanics simulator. Go to an inn and start practice.",
+        "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
+        "InternalName": "UMADAnoMech",
+        "AssemblyVersion": "0.1.0.0",
+        "RepoUrl": "https://github.com/TibbyTech/UMADAnoMech",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "top",
+            "umad",
+            "dmu",
+            "kefka",
+            "omega",
+            "protocol",
+            "ultimate",
+            "practice",
+            "simulator"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1783890715"
+    }
+   ]
