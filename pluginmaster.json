@@ -5,7 +5,7 @@
         "Punchline": "Another another FFXIV mechanics simulator. Go to an inn and start practice.",
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
         "InternalName": "UMADAnoMech",
-        "AssemblyVersion": "0.1.0.2",
+        "AssemblyVersion": "0.0.0.0",
         "RepoUrl": "https://github.com/TibbyTech/UMADAnoMech",
         "ApplicableVersion": "any",
         "Tags": [
@@ -24,7 +24,7 @@
         "DownloadLinkInstall": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
+        "DownloadLinkTesting": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/test.zip",
         "DownloadLinkUpdate": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
         "DownloadCount": 67,
         "LastUpdate": "1783890715"
