@@ -6,7 +6,6 @@
         "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
         "InternalName": "UMADAnoMech",
         "AssemblyVersion": "0.1.0.3",
-        "TestingAssemblyVersion": "0.1.0.4",
         "RepoUrl": "https://github.com/TibbyTech/UMADAnoMech",
         "ApplicableVersion": "any",
         "Tags": [
@@ -25,9 +24,11 @@
         "DownloadLinkInstall": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/test.zip",
         "DownloadLinkUpdate": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/latest.zip",
         "DownloadCount": 67,
-        "LastUpdate": "1783890715"
+        "LastUpdate": "1783890715",
+        "TestingAssemblyVersion": "0.1.0.4",
+        "DownloadLinkTesting": "https://github.com/TibbyTech/UMADAnoMech/releases/latest/download/test.zip",
+        "TestingDalamudApiLevel": "15"
     }
    ]
