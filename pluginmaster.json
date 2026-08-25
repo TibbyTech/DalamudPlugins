@@ -2,8 +2,8 @@
     {
         "Author": "UMADcorp",
         "Name": "UMADAnoMech",
-        "Punchline": "Another another FFXIV mechanics simulator. Go to an inn and start practice.",
-        "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
+        "Punchline": "The official mechanic simulator of UMADcorp. Go to an inn and start practice. No, seriously, go do it!",
+        "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics using the official UMADcorp approved strats.",
         "InternalName": "UMADAnoMech",
         "AssemblyVersion": "0.1.0.3",
         "RepoUrl": "https://github.com/TibbyTech/UMADAnoMech",
